@@ -1,3 +1,7 @@
+# Why fork?
+
+I forked this because I ran main through chatgpt and wanted to make a few changes. Wasn't ready to add them to upstream without validating them with a bit of usage.
+
 # TracklessURL
 
 **TracklessURL** is a Python-based tool that automatically cleans URLs copied to the clipboard by removing tracking parameters. It leverages a local SQLite database to manage tracking rules.
